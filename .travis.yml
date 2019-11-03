@@ -14,5 +14,5 @@ branches:
 deploy:
   provider: heroku
   api_key:
-    secure: "da6528d4-15b2-42d5-b658-e1ec54aa297f"
+    secure: "c64832ce-feb8-47ad-ae2a-cacdc1d7e8c0"
   app: app-test-ci
